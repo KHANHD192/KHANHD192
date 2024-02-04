@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHANHD192
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning web pentest
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email : khanhdangkma2003@gmail.com
 
